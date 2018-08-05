@@ -1,0 +1,17 @@
+{
+  "name": "roost/php-arguments",
+  "description": "PHP CLI argument parser class",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "software@bnest.co",
+      "email": "software@bnest.co"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Roost\\CLI\\": "src/"
+    }
+  }
+}
